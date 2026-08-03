@@ -1,0 +1,1347 @@
+[
+  {
+    "word": "apple",
+    "meaning": "사과",
+    "pos": "noun"
+  },
+  {
+    "word": "banana",
+    "meaning": "바나나",
+    "pos": "noun"
+  },
+  {
+    "word": "orange",
+    "meaning": "오렌지",
+    "pos": "noun"
+  },
+  {
+    "word": "grape",
+    "meaning": "포도",
+    "pos": "noun"
+  },
+  {
+    "word": "lemon",
+    "meaning": "레몬",
+    "pos": "noun"
+  },
+  {
+    "word": "water",
+    "meaning": "물",
+    "pos": "noun"
+  },
+  {
+    "word": "bread",
+    "meaning": "빵",
+    "pos": "noun"
+  },
+  {
+    "word": "rice",
+    "meaning": "쌀, 밥",
+    "pos": "noun"
+  },
+  {
+    "word": "coffee",
+    "meaning": "커피",
+    "pos": "noun"
+  },
+  {
+    "word": "milk",
+    "meaning": "우유",
+    "pos": "noun"
+  },
+  {
+    "word": "book",
+    "meaning": "책",
+    "pos": "noun"
+  },
+  {
+    "word": "pencil",
+    "meaning": "연필",
+    "pos": "noun"
+  },
+  {
+    "word": "table",
+    "meaning": "탁자",
+    "pos": "noun"
+  },
+  {
+    "word": "chair",
+    "meaning": "의자",
+    "pos": "noun"
+  },
+  {
+    "word": "window",
+    "meaning": "창문",
+    "pos": "noun"
+  },
+  {
+    "word": "door",
+    "meaning": "문",
+    "pos": "noun"
+  },
+  {
+    "word": "house",
+    "meaning": "집",
+    "pos": "noun"
+  },
+  {
+    "word": "school",
+    "meaning": "학교",
+    "pos": "noun"
+  },
+  {
+    "word": "teacher",
+    "meaning": "선생님",
+    "pos": "noun"
+  },
+  {
+    "word": "student",
+    "meaning": "학생",
+    "pos": "noun"
+  },
+  {
+    "word": "friend",
+    "meaning": "친구",
+    "pos": "noun"
+  },
+  {
+    "word": "family",
+    "meaning": "가족",
+    "pos": "noun"
+  },
+  {
+    "word": "mother",
+    "meaning": "어머니",
+    "pos": "noun"
+  },
+  {
+    "word": "father",
+    "meaning": "아버지",
+    "pos": "noun"
+  },
+  {
+    "word": "brother",
+    "meaning": "형제",
+    "pos": "noun"
+  },
+  {
+    "word": "sister",
+    "meaning": "자매",
+    "pos": "noun"
+  },
+  {
+    "word": "child",
+    "meaning": "아이",
+    "pos": "noun"
+  },
+  {
+    "word": "dog",
+    "meaning": "개",
+    "pos": "noun"
+  },
+  {
+    "word": "cat",
+    "meaning": "고양이",
+    "pos": "noun"
+  },
+  {
+    "word": "bird",
+    "meaning": "새",
+    "pos": "noun"
+  },
+  {
+    "word": "fish",
+    "meaning": "물고기",
+    "pos": "noun"
+  },
+  {
+    "word": "horse",
+    "meaning": "말",
+    "pos": "noun"
+  },
+  {
+    "word": "tree",
+    "meaning": "나무",
+    "pos": "noun"
+  },
+  {
+    "word": "flower",
+    "meaning": "꽃",
+    "pos": "noun"
+  },
+  {
+    "word": "mountain",
+    "meaning": "산",
+    "pos": "noun"
+  },
+  {
+    "word": "river",
+    "meaning": "강",
+    "pos": "noun"
+  },
+  {
+    "word": "ocean",
+    "meaning": "바다, 대양",
+    "pos": "noun"
+  },
+  {
+    "word": "sky",
+    "meaning": "하늘",
+    "pos": "noun"
+  },
+  {
+    "word": "sun",
+    "meaning": "태양",
+    "pos": "noun"
+  },
+  {
+    "word": "moon",
+    "meaning": "달",
+    "pos": "noun"
+  },
+  {
+    "word": "star",
+    "meaning": "별",
+    "pos": "noun"
+  },
+  {
+    "word": "cloud",
+    "meaning": "구름",
+    "pos": "noun"
+  },
+  {
+    "word": "rain",
+    "meaning": "비",
+    "pos": "noun"
+  },
+  {
+    "word": "snow",
+    "meaning": "눈",
+    "pos": "noun"
+  },
+  {
+    "word": "wind",
+    "meaning": "바람",
+    "pos": "noun"
+  },
+  {
+    "word": "fire",
+    "meaning": "불",
+    "pos": "noun"
+  },
+  {
+    "word": "earth",
+    "meaning": "지구, 땅",
+    "pos": "noun"
+  },
+  {
+    "word": "city",
+    "meaning": "도시",
+    "pos": "noun"
+  },
+  {
+    "word": "country",
+    "meaning": "나라",
+    "pos": "noun"
+  },
+  {
+    "word": "road",
+    "meaning": "길, 도로",
+    "pos": "noun"
+  },
+  {
+    "word": "car",
+    "meaning": "자동차",
+    "pos": "noun"
+  },
+  {
+    "word": "bus",
+    "meaning": "버스",
+    "pos": "noun"
+  },
+  {
+    "word": "train",
+    "meaning": "기차",
+    "pos": "noun"
+  },
+  {
+    "word": "airplane",
+    "meaning": "비행기",
+    "pos": "noun"
+  },
+  {
+    "word": "ship",
+    "meaning": "배",
+    "pos": "noun"
+  },
+  {
+    "word": "bicycle",
+    "meaning": "자전거",
+    "pos": "noun"
+  },
+  {
+    "word": "money",
+    "meaning": "돈",
+    "pos": "noun"
+  },
+  {
+    "word": "time",
+    "meaning": "시간",
+    "pos": "noun"
+  },
+  {
+    "word": "day",
+    "meaning": "하루, 낮",
+    "pos": "noun"
+  },
+  {
+    "word": "night",
+    "meaning": "밤",
+    "pos": "noun"
+  },
+  {
+    "word": "morning",
+    "meaning": "아침",
+    "pos": "noun"
+  },
+  {
+    "word": "evening",
+    "meaning": "저녁",
+    "pos": "noun"
+  },
+  {
+    "word": "week",
+    "meaning": "주(週)",
+    "pos": "noun"
+  },
+  {
+    "word": "month",
+    "meaning": "달, 월",
+    "pos": "noun"
+  },
+  {
+    "word": "year",
+    "meaning": "해, 년",
+    "pos": "noun"
+  },
+  {
+    "word": "job",
+    "meaning": "직업, 일",
+    "pos": "noun"
+  },
+  {
+    "word": "work",
+    "meaning": "일, 작업",
+    "pos": "noun"
+  },
+  {
+    "word": "music",
+    "meaning": "음악",
+    "pos": "noun"
+  },
+  {
+    "word": "movie",
+    "meaning": "영화",
+    "pos": "noun"
+  },
+  {
+    "word": "game",
+    "meaning": "게임, 경기",
+    "pos": "noun"
+  },
+  {
+    "word": "sport",
+    "meaning": "운동, 스포츠",
+    "pos": "noun"
+  },
+  {
+    "word": "color",
+    "meaning": "색깔",
+    "pos": "noun"
+  },
+  {
+    "word": "letter",
+    "meaning": "편지, 글자",
+    "pos": "noun"
+  },
+  {
+    "word": "word",
+    "meaning": "단어",
+    "pos": "noun"
+  },
+  {
+    "word": "language",
+    "meaning": "언어",
+    "pos": "noun"
+  },
+  {
+    "word": "computer",
+    "meaning": "컴퓨터",
+    "pos": "noun"
+  },
+  {
+    "word": "phone",
+    "meaning": "전화기",
+    "pos": "noun"
+  },
+  {
+    "word": "internet",
+    "meaning": "인터넷",
+    "pos": "noun"
+  },
+  {
+    "word": "picture",
+    "meaning": "그림, 사진",
+    "pos": "noun"
+  },
+  {
+    "word": "camera",
+    "meaning": "사진기",
+    "pos": "noun"
+  },
+  {
+    "word": "key",
+    "meaning": "열쇠",
+    "pos": "noun"
+  },
+  {
+    "word": "box",
+    "meaning": "상자",
+    "pos": "noun"
+  },
+  {
+    "word": "bag",
+    "meaning": "가방",
+    "pos": "noun"
+  },
+  {
+    "word": "clock",
+    "meaning": "시계",
+    "pos": "noun"
+  },
+  {
+    "word": "shoe",
+    "meaning": "신발",
+    "pos": "noun"
+  },
+  {
+    "word": "shirt",
+    "meaning": "셔츠",
+    "pos": "noun"
+  },
+  {
+    "word": "hat",
+    "meaning": "모자",
+    "pos": "noun"
+  },
+  {
+    "word": "coat",
+    "meaning": "외투, 코트",
+    "pos": "noun"
+  },
+  {
+    "word": "hand",
+    "meaning": "손",
+    "pos": "noun"
+  },
+  {
+    "word": "foot",
+    "meaning": "발",
+    "pos": "noun"
+  },
+  {
+    "word": "head",
+    "meaning": "머리",
+    "pos": "noun"
+  },
+  {
+    "word": "eye",
+    "meaning": "눈(신체)",
+    "pos": "noun"
+  },
+  {
+    "word": "ear",
+    "meaning": "귀",
+    "pos": "noun"
+  },
+  {
+    "word": "nose",
+    "meaning": "코",
+    "pos": "noun"
+  },
+  {
+    "word": "mouth",
+    "meaning": "입",
+    "pos": "noun"
+  },
+  {
+    "word": "heart",
+    "meaning": "심장, 마음",
+    "pos": "noun"
+  },
+  {
+    "word": "idea",
+    "meaning": "생각, 아이디어",
+    "pos": "noun"
+  },
+  {
+    "word": "question",
+    "meaning": "질문",
+    "pos": "noun"
+  },
+  {
+    "word": "answer",
+    "meaning": "대답",
+    "pos": "noun/verb"
+  },
+  {
+    "word": "problem",
+    "meaning": "문제",
+    "pos": "noun"
+  },
+  {
+    "word": "reason",
+    "meaning": "이유",
+    "pos": "noun"
+  },
+  {
+    "word": "story",
+    "meaning": "이야기",
+    "pos": "noun"
+  },
+  {
+    "word": "news",
+    "meaning": "소식, 뉴스",
+    "pos": "noun"
+  },
+  {
+    "word": "example",
+    "meaning": "예, 사례",
+    "pos": "noun"
+  },
+  {
+    "word": "history",
+    "meaning": "역사",
+    "pos": "noun"
+  },
+  {
+    "word": "science",
+    "meaning": "과학",
+    "pos": "noun"
+  },
+  {
+    "word": "art",
+    "meaning": "예술, 미술",
+    "pos": "noun"
+  },
+  {
+    "word": "dream",
+    "meaning": "꿈",
+    "pos": "noun"
+  },
+  {
+    "word": "hope",
+    "meaning": "희망, 바라다",
+    "pos": "noun/verb"
+  },
+  {
+    "word": "love",
+    "meaning": "사랑, 사랑하다",
+    "pos": "noun/verb"
+  },
+  {
+    "word": "peace",
+    "meaning": "평화",
+    "pos": "noun"
+  },
+  {
+    "word": "health",
+    "meaning": "건강",
+    "pos": "noun"
+  },
+  {
+    "word": "food",
+    "meaning": "음식",
+    "pos": "noun"
+  },
+  {
+    "word": "meat",
+    "meaning": "고기",
+    "pos": "noun"
+  },
+  {
+    "word": "vegetable",
+    "meaning": "채소",
+    "pos": "noun"
+  },
+  {
+    "word": "egg",
+    "meaning": "달걀",
+    "pos": "noun"
+  },
+  {
+    "word": "sugar",
+    "meaning": "설탕",
+    "pos": "noun"
+  },
+  {
+    "word": "salt",
+    "meaning": "소금",
+    "pos": "noun"
+  },
+  {
+    "word": "run",
+    "meaning": "달리다",
+    "pos": "verb"
+  },
+  {
+    "word": "walk",
+    "meaning": "걷다",
+    "pos": "verb"
+  },
+  {
+    "word": "jump",
+    "meaning": "뛰어오르다",
+    "pos": "verb"
+  },
+  {
+    "word": "swim",
+    "meaning": "수영하다",
+    "pos": "verb"
+  },
+  {
+    "word": "eat",
+    "meaning": "먹다",
+    "pos": "verb"
+  },
+  {
+    "word": "drink",
+    "meaning": "마시다",
+    "pos": "verb"
+  },
+  {
+    "word": "sleep",
+    "meaning": "자다",
+    "pos": "verb"
+  },
+  {
+    "word": "wake",
+    "meaning": "깨다, 일어나다",
+    "pos": "verb"
+  },
+  {
+    "word": "read",
+    "meaning": "읽다",
+    "pos": "verb"
+  },
+  {
+    "word": "write",
+    "meaning": "쓰다",
+    "pos": "verb"
+  },
+  {
+    "word": "speak",
+    "meaning": "말하다",
+    "pos": "verb"
+  },
+  {
+    "word": "listen",
+    "meaning": "듣다",
+    "pos": "verb"
+  },
+  {
+    "word": "watch",
+    "meaning": "보다, 지켜보다",
+    "pos": "verb"
+  },
+  {
+    "word": "look",
+    "meaning": "보다",
+    "pos": "verb"
+  },
+  {
+    "word": "see",
+    "meaning": "보다, 알다",
+    "pos": "verb"
+  },
+  {
+    "word": "hear",
+    "meaning": "듣다",
+    "pos": "verb"
+  },
+  {
+    "word": "think",
+    "meaning": "생각하다",
+    "pos": "verb"
+  },
+  {
+    "word": "know",
+    "meaning": "알다",
+    "pos": "verb"
+  },
+  {
+    "word": "learn",
+    "meaning": "배우다",
+    "pos": "verb"
+  },
+  {
+    "word": "teach",
+    "meaning": "가르치다",
+    "pos": "verb"
+  },
+  {
+    "word": "study",
+    "meaning": "공부하다",
+    "pos": "verb"
+  },
+  {
+    "word": "understand",
+    "meaning": "이해하다",
+    "pos": "verb"
+  },
+  {
+    "word": "remember",
+    "meaning": "기억하다",
+    "pos": "verb"
+  },
+  {
+    "word": "forget",
+    "meaning": "잊다",
+    "pos": "verb"
+  },
+  {
+    "word": "believe",
+    "meaning": "믿다",
+    "pos": "verb"
+  },
+  {
+    "word": "want",
+    "meaning": "원하다",
+    "pos": "verb"
+  },
+  {
+    "word": "need",
+    "meaning": "필요하다",
+    "pos": "verb"
+  },
+  {
+    "word": "like",
+    "meaning": "좋아하다",
+    "pos": "verb"
+  },
+  {
+    "word": "hate",
+    "meaning": "싫어하다",
+    "pos": "verb"
+  },
+  {
+    "word": "give",
+    "meaning": "주다",
+    "pos": "verb"
+  },
+  {
+    "word": "take",
+    "meaning": "가져가다, 취하다",
+    "pos": "verb"
+  },
+  {
+    "word": "make",
+    "meaning": "만들다",
+    "pos": "verb"
+  },
+  {
+    "word": "build",
+    "meaning": "짓다, 건설하다",
+    "pos": "verb"
+  },
+  {
+    "word": "break",
+    "meaning": "부수다, 깨다",
+    "pos": "verb"
+  },
+  {
+    "word": "fix",
+    "meaning": "고치다",
+    "pos": "verb"
+  },
+  {
+    "word": "open",
+    "meaning": "열다",
+    "pos": "verb"
+  },
+  {
+    "word": "close",
+    "meaning": "닫다",
+    "pos": "verb"
+  },
+  {
+    "word": "start",
+    "meaning": "시작하다",
+    "pos": "verb"
+  },
+  {
+    "word": "stop",
+    "meaning": "멈추다",
+    "pos": "verb"
+  },
+  {
+    "word": "finish",
+    "meaning": "끝내다",
+    "pos": "verb"
+  },
+  {
+    "word": "continue",
+    "meaning": "계속하다",
+    "pos": "verb"
+  },
+  {
+    "word": "change",
+    "meaning": "바꾸다",
+    "pos": "verb"
+  },
+  {
+    "word": "move",
+    "meaning": "움직이다",
+    "pos": "verb"
+  },
+  {
+    "word": "stay",
+    "meaning": "머무르다",
+    "pos": "verb"
+  },
+  {
+    "word": "live",
+    "meaning": "살다",
+    "pos": "verb"
+  },
+  {
+    "word": "die",
+    "meaning": "죽다",
+    "pos": "verb"
+  },
+  {
+    "word": "grow",
+    "meaning": "자라다",
+    "pos": "verb"
+  },
+  {
+    "word": "buy",
+    "meaning": "사다",
+    "pos": "verb"
+  },
+  {
+    "word": "sell",
+    "meaning": "팔다",
+    "pos": "verb"
+  },
+  {
+    "word": "pay",
+    "meaning": "지불하다",
+    "pos": "verb"
+  },
+  {
+    "word": "cost",
+    "meaning": "비용이 들다",
+    "pos": "verb"
+  },
+  {
+    "word": "help",
+    "meaning": "돕다",
+    "pos": "verb"
+  },
+  {
+    "word": "try",
+    "meaning": "시도하다",
+    "pos": "verb"
+  },
+  {
+    "word": "play",
+    "meaning": "놀다, 연주하다",
+    "pos": "verb"
+  },
+  {
+    "word": "win",
+    "meaning": "이기다",
+    "pos": "verb"
+  },
+  {
+    "word": "lose",
+    "meaning": "지다, 잃다",
+    "pos": "verb"
+  },
+  {
+    "word": "find",
+    "meaning": "찾다",
+    "pos": "verb"
+  },
+  {
+    "word": "search",
+    "meaning": "찾다, 검색하다",
+    "pos": "verb"
+  },
+  {
+    "word": "meet",
+    "meaning": "만나다",
+    "pos": "verb"
+  },
+  {
+    "word": "visit",
+    "meaning": "방문하다",
+    "pos": "verb"
+  },
+  {
+    "word": "travel",
+    "meaning": "여행하다",
+    "pos": "verb"
+  },
+  {
+    "word": "arrive",
+    "meaning": "도착하다",
+    "pos": "verb"
+  },
+  {
+    "word": "leave",
+    "meaning": "떠나다",
+    "pos": "verb"
+  },
+  {
+    "word": "enter",
+    "meaning": "들어가다",
+    "pos": "verb"
+  },
+  {
+    "word": "return",
+    "meaning": "돌아오다",
+    "pos": "verb"
+  },
+  {
+    "word": "send",
+    "meaning": "보내다",
+    "pos": "verb"
+  },
+  {
+    "word": "receive",
+    "meaning": "받다",
+    "pos": "verb"
+  },
+  {
+    "word": "ask",
+    "meaning": "묻다, 부탁하다",
+    "pos": "verb"
+  },
+  {
+    "word": "explain",
+    "meaning": "설명하다",
+    "pos": "verb"
+  },
+  {
+    "word": "decide",
+    "meaning": "결정하다",
+    "pos": "verb"
+  },
+  {
+    "word": "choose",
+    "meaning": "선택하다",
+    "pos": "verb"
+  },
+  {
+    "word": "wait",
+    "meaning": "기다리다",
+    "pos": "verb"
+  },
+  {
+    "word": "happy",
+    "meaning": "행복한",
+    "pos": "adjective"
+  },
+  {
+    "word": "sad",
+    "meaning": "슬픈",
+    "pos": "adjective"
+  },
+  {
+    "word": "angry",
+    "meaning": "화난",
+    "pos": "adjective"
+  },
+  {
+    "word": "tired",
+    "meaning": "피곤한",
+    "pos": "adjective"
+  },
+  {
+    "word": "hungry",
+    "meaning": "배고픈",
+    "pos": "adjective"
+  },
+  {
+    "word": "thirsty",
+    "meaning": "목마른",
+    "pos": "adjective"
+  },
+  {
+    "word": "sick",
+    "meaning": "아픈",
+    "pos": "adjective"
+  },
+  {
+    "word": "healthy",
+    "meaning": "건강한",
+    "pos": "adjective"
+  },
+  {
+    "word": "beautiful",
+    "meaning": "아름다운",
+    "pos": "adjective"
+  },
+  {
+    "word": "ugly",
+    "meaning": "못생긴",
+    "pos": "adjective"
+  },
+  {
+    "word": "big",
+    "meaning": "큰",
+    "pos": "adjective"
+  },
+  {
+    "word": "small",
+    "meaning": "작은",
+    "pos": "adjective"
+  },
+  {
+    "word": "tall",
+    "meaning": "키가 큰",
+    "pos": "adjective"
+  },
+  {
+    "word": "short",
+    "meaning": "짧은, 키가 작은",
+    "pos": "adjective"
+  },
+  {
+    "word": "long",
+    "meaning": "긴",
+    "pos": "adjective"
+  },
+  {
+    "word": "wide",
+    "meaning": "넓은",
+    "pos": "adjective"
+  },
+  {
+    "word": "narrow",
+    "meaning": "좁은",
+    "pos": "adjective"
+  },
+  {
+    "word": "heavy",
+    "meaning": "무거운",
+    "pos": "adjective"
+  },
+  {
+    "word": "light",
+    "meaning": "가벼운, 밝은",
+    "pos": "adjective"
+  },
+  {
+    "word": "strong",
+    "meaning": "강한",
+    "pos": "adjective"
+  },
+  {
+    "word": "weak",
+    "meaning": "약한",
+    "pos": "adjective"
+  },
+  {
+    "word": "fast",
+    "meaning": "빠른",
+    "pos": "adjective"
+  },
+  {
+    "word": "slow",
+    "meaning": "느린",
+    "pos": "adjective"
+  },
+  {
+    "word": "hot",
+    "meaning": "뜨거운, 더운",
+    "pos": "adjective"
+  },
+  {
+    "word": "cold",
+    "meaning": "추운, 차가운",
+    "pos": "adjective"
+  },
+  {
+    "word": "warm",
+    "meaning": "따뜻한",
+    "pos": "adjective"
+  },
+  {
+    "word": "cool",
+    "meaning": "시원한",
+    "pos": "adjective"
+  },
+  {
+    "word": "new",
+    "meaning": "새로운",
+    "pos": "adjective"
+  },
+  {
+    "word": "old",
+    "meaning": "오래된, 늙은",
+    "pos": "adjective"
+  },
+  {
+    "word": "young",
+    "meaning": "젊은",
+    "pos": "adjective"
+  },
+  {
+    "word": "easy",
+    "meaning": "쉬운",
+    "pos": "adjective"
+  },
+  {
+    "word": "difficult",
+    "meaning": "어려운",
+    "pos": "adjective"
+  },
+  {
+    "word": "simple",
+    "meaning": "간단한",
+    "pos": "adjective"
+  },
+  {
+    "word": "important",
+    "meaning": "중요한",
+    "pos": "adjective"
+  },
+  {
+    "word": "dangerous",
+    "meaning": "위험한",
+    "pos": "adjective"
+  },
+  {
+    "word": "safe",
+    "meaning": "안전한",
+    "pos": "adjective"
+  },
+  {
+    "word": "clean",
+    "meaning": "깨끗한",
+    "pos": "adjective"
+  },
+  {
+    "word": "dirty",
+    "meaning": "더러운",
+    "pos": "adjective"
+  },
+  {
+    "word": "rich",
+    "meaning": "부유한",
+    "pos": "adjective"
+  },
+  {
+    "word": "poor",
+    "meaning": "가난한",
+    "pos": "adjective"
+  },
+  {
+    "word": "kind",
+    "meaning": "친절한",
+    "pos": "adjective"
+  },
+  {
+    "word": "cruel",
+    "meaning": "잔인한",
+    "pos": "adjective"
+  },
+  {
+    "word": "funny",
+    "meaning": "웃긴, 재미있는",
+    "pos": "adjective"
+  },
+  {
+    "word": "boring",
+    "meaning": "지루한",
+    "pos": "adjective"
+  },
+  {
+    "word": "interesting",
+    "meaning": "흥미로운",
+    "pos": "adjective"
+  },
+  {
+    "word": "quiet",
+    "meaning": "조용한",
+    "pos": "adjective"
+  },
+  {
+    "word": "loud",
+    "meaning": "시끄러운",
+    "pos": "adjective"
+  },
+  {
+    "word": "bright",
+    "meaning": "밝은",
+    "pos": "adjective"
+  },
+  {
+    "word": "dark",
+    "meaning": "어두운",
+    "pos": "adjective"
+  },
+  {
+    "word": "true",
+    "meaning": "사실인, 진실한",
+    "pos": "adjective"
+  },
+  {
+    "word": "false",
+    "meaning": "거짓의",
+    "pos": "adjective"
+  },
+  {
+    "word": "free",
+    "meaning": "자유로운, 무료의",
+    "pos": "adjective"
+  },
+  {
+    "word": "busy",
+    "meaning": "바쁜",
+    "pos": "adjective"
+  },
+  {
+    "word": "empty",
+    "meaning": "빈, 비어있는",
+    "pos": "adjective"
+  },
+  {
+    "word": "full",
+    "meaning": "가득 찬",
+    "pos": "adjective"
+  },
+  {
+    "word": "sweet",
+    "meaning": "달콤한",
+    "pos": "adjective"
+  },
+  {
+    "word": "bitter",
+    "meaning": "쓴",
+    "pos": "adjective"
+  },
+  {
+    "word": "fresh",
+    "meaning": "신선한",
+    "pos": "adjective"
+  },
+  {
+    "word": "brave",
+    "meaning": "용감한",
+    "pos": "adjective"
+  },
+  {
+    "word": "lazy",
+    "meaning": "게으른",
+    "pos": "adjective"
+  },
+  {
+    "word": "smart",
+    "meaning": "똑똑한",
+    "pos": "adjective"
+  },
+  {
+    "word": "quickly",
+    "meaning": "빠르게",
+    "pos": "adverb"
+  },
+  {
+    "word": "slowly",
+    "meaning": "천천히",
+    "pos": "adverb"
+  },
+  {
+    "word": "carefully",
+    "meaning": "조심스럽게",
+    "pos": "adverb"
+  },
+  {
+    "word": "always",
+    "meaning": "항상",
+    "pos": "adverb"
+  },
+  {
+    "word": "never",
+    "meaning": "결코 ~않다",
+    "pos": "adverb"
+  },
+  {
+    "word": "often",
+    "meaning": "자주",
+    "pos": "adverb"
+  },
+  {
+    "word": "sometimes",
+    "meaning": "가끔",
+    "pos": "adverb"
+  },
+  {
+    "word": "today",
+    "meaning": "오늘",
+    "pos": "adverb"
+  },
+  {
+    "word": "tomorrow",
+    "meaning": "내일",
+    "pos": "adverb"
+  },
+  {
+    "word": "yesterday",
+    "meaning": "어제",
+    "pos": "adverb"
+  },
+  {
+    "word": "now",
+    "meaning": "지금",
+    "pos": "adverb"
+  },
+  {
+    "word": "later",
+    "meaning": "나중에",
+    "pos": "adverb"
+  },
+  {
+    "word": "soon",
+    "meaning": "곧",
+    "pos": "adverb"
+  },
+  {
+    "word": "again",
+    "meaning": "다시",
+    "pos": "adverb"
+  },
+  {
+    "word": "together",
+    "meaning": "함께",
+    "pos": "adverb"
+  },
+  {
+    "word": "alone",
+    "meaning": "혼자",
+    "pos": "adverb"
+  },
+  {
+    "word": "here",
+    "meaning": "여기",
+    "pos": "adverb"
+  },
+  {
+    "word": "there",
+    "meaning": "저기",
+    "pos": "adverb"
+  }
+]

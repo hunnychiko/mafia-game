@@ -23,6 +23,9 @@ dependencies:
   just_audio_background: ^0.0.1-beta.12
   audio_service: ^0.18.14
 
+  # Alarm (영어 단어 알람)
+  alarm: ^5.6.0
+
   # State Management
   flutter_riverpod: ^2.5.1
   riverpod_annotation: ^2.3.4
@@ -58,4 +61,6 @@ flutter:
   assets:
     - assets/images/
     - assets/lottie/
+    - assets/data/
+    - assets/sounds/
 

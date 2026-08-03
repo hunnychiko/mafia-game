@@ -38,7 +38,7 @@ android {
 
     defaultConfig {
         applicationId = "com.lullify.app"
-        minSdk = 21   // just_audio_background 최소 요구사항
+        minSdk = 23   // alarm 패키지 최소 요구사항
         targetSdk = 34
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName

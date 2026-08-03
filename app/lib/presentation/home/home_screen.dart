@@ -27,6 +27,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         title: const Text('Lullify'),
         actions: [
           IconButton(
+            icon: const Icon(Icons.alarm_outlined),
+            onPressed: () => Navigator.pushNamed(context, '/alarms'),
+          ),
+          IconButton(
             icon: const Icon(Icons.settings_outlined),
             onPressed: () => Navigator.pushNamed(context, '/settings'),
           ),

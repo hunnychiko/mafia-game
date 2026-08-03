@@ -32,6 +32,12 @@
 		<string>fetch</string>
 	</array>
 
+	<!-- 영어 단어 알람 (alarm 패키지) 백그라운드 재예약 -->
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.gdelataillade.fetch</string>
+	</array>
+
 	<!-- 세로 방향만 지원 -->
 	<key>UISupportedInterfaceOrientations</key>
 	<array>

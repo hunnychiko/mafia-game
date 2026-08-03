@@ -32,6 +32,11 @@ abstract class AppConstants {
   static const String keyAdRemoved = 'ad_removed';
   static const String keyUnlockedSounds = 'unlocked_sounds';
   static const String keyMixes = 'saved_mixes';
+  static const String keyWordAlarms = 'word_alarms';
+  static const String keyWordAlarmHistory = 'word_alarm_history';
+
+  // Word alarm
+  static const int wordDedupeWindowDays = 30;
 }
 
 abstract class SoundCategory {
